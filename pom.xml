@@ -29,7 +29,7 @@
 
         <wagon.version>2.2</wagon.version>
         <gmaven.provider.selection>2.0</gmaven.provider.selection>
-        <groovy.version>2.5.14</groovy.version>
+        <groovy.version>3.0.7</groovy.version>
 
         <clover.version>3.3.0</clover.version>
         <clover.license>/private/reficio/clover.license</clover.license>
